@@ -10,8 +10,6 @@ function: `cats()`.
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of pets is to …
-
 ## Installation
 
 You can install the development version of pets from
