@@ -21,7 +21,6 @@ The goal of pets is to provide a simple means for people to express their feelin
 
 <!-- badges: end -->
 
-The goal of pets is to ...
 
 ## Installation
 
